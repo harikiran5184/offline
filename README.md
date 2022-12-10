@@ -1,4 +1,3 @@
-# offline-music-player
 <html>
 
     <head>
@@ -709,7 +708,7 @@
 
         
 
-        <center ">
+        <center>
 
         <input type="file" id="select" multiple accept=".mp3" style="position: relative; margin-top: 80px;">
 
